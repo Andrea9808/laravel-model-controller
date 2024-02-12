@@ -13,7 +13,6 @@
                         </h6>
                         <h6 class="red">Nazionalità: <span class="text-black">{{ $movie->nationality }}</span></h6>
                         <h6 class="red">Data d'uscita: <span class="text-black">{{ $movie->date }}</span></h6>
-                        <h6 class="red">Data d'uscita: <span class="text-black">{{ $movie->date }}</span></h6>
                         <h6 class="red">Voto: <span class="text-black">{{ $movie->vote }}</span></h6>
                     </div>
                 </div>
